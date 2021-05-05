@@ -1,0 +1,5 @@
+D:\GUSTAVO\Documentos\Arquivos\ETE\ETE LIMOEIRO\III Módulo\Desenvolvimento de Aplicação Web\Trabalhos\Vitrine Calçados\Projetos\ProjetoWeb\ProjetoWeb1\bin\ProjetoWeb1.dll
+D:\GUSTAVO\Documentos\Arquivos\ETE\ETE LIMOEIRO\III Módulo\Desenvolvimento de Aplicação Web\Trabalhos\Vitrine Calçados\Projetos\ProjetoWeb\ProjetoWeb1\bin\ProjetoWeb1.pdb
+D:\GUSTAVO\Documentos\Arquivos\ETE\ETE LIMOEIRO\III Módulo\Desenvolvimento de Aplicação Web\Trabalhos\Vitrine Calçados\Projetos\ProjetoWeb\ProjetoWeb1\obj\Debug\ResolveAssemblyReference.cache
+D:\GUSTAVO\Documentos\Arquivos\ETE\ETE LIMOEIRO\III Módulo\Desenvolvimento de Aplicação Web\Trabalhos\Vitrine Calçados\Projetos\ProjetoWeb\ProjetoWeb1\obj\Debug\ProjetoWeb1.dll
+D:\GUSTAVO\Documentos\Arquivos\ETE\ETE LIMOEIRO\III Módulo\Desenvolvimento de Aplicação Web\Trabalhos\Vitrine Calçados\Projetos\ProjetoWeb\ProjetoWeb1\obj\Debug\ProjetoWeb1.pdb

@@ -1,0 +1,38 @@
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2010\Projects\ProjetoWeb1\ProjetoWeb1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2010\Projects\ProjetoWeb1\ProjetoWeb1\bin\ProjetoWeb1.dll
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2010\Projects\ProjetoWeb1\ProjetoWeb1\bin\ProjetoWeb1.pdb
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2010\Projects\ProjetoWeb1\ProjetoWeb1\obj\Debug\ProjetoWeb1.dll
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2010\Projects\ProjetoWeb1\ProjetoWeb1\obj\Debug\ProjetoWeb1.pdb
+D:\GUSTAVO\Documentos\Arquivos\ETE\ETE LIMOEIRO\III Módulo\Desenvolvimento de Aplicação Web\Aulas\Projetos\ProjetoWeb1\ProjetoWeb1\bin\ProjetoWeb1.dll
+D:\GUSTAVO\Documentos\Arquivos\ETE\ETE LIMOEIRO\III Módulo\Desenvolvimento de Aplicação Web\Aulas\Projetos\ProjetoWeb1\ProjetoWeb1\bin\ProjetoWeb1.pdb
+D:\GUSTAVO\Documentos\Arquivos\ETE\ETE LIMOEIRO\III Módulo\Desenvolvimento de Aplicação Web\Aulas\Projetos\ProjetoWeb1\ProjetoWeb1\obj\Debug\ResolveAssemblyReference.cache
+D:\GUSTAVO\Documentos\Arquivos\ETE\ETE LIMOEIRO\III Módulo\Desenvolvimento de Aplicação Web\Aulas\Projetos\ProjetoWeb1\ProjetoWeb1\obj\Debug\ProjetoWeb1.dll
+D:\GUSTAVO\Documentos\Arquivos\ETE\ETE LIMOEIRO\III Módulo\Desenvolvimento de Aplicação Web\Aulas\Projetos\ProjetoWeb1\ProjetoWeb1\obj\Debug\ProjetoWeb1.pdb
+D:\GUSTAVO\Documentos\Arquivos\ETE\ETE LIMOEIRO\III Módulo\Desenvolvimento de Aplicação Web\Trabalhos\Vitrine Calçados\Projetos\ProjetoWeb\ProjetoWeb1\obj\Debug\ResolveAssemblyReference.cache
+D:\GUSTAVO\Documentos\Arquivos\ETE\ETE LIMOEIRO\III Módulo\Desenvolvimento de Aplicação Web\Trabalhos\Vitrine Calçados\Projetos\ProjetoWeb\ProjetoWeb1\obj\Debug\ProjetoWeb1.dll
+D:\GUSTAVO\Documentos\Arquivos\ETE\ETE LIMOEIRO\III Módulo\Desenvolvimento de Aplicação Web\Trabalhos\Vitrine Calçados\Projetos\ProjetoWeb\ProjetoWeb1\bin\ProjetoWeb1.dll
+D:\GUSTAVO\Documentos\Arquivos\ETE\ETE LIMOEIRO\III Módulo\Desenvolvimento de Aplicação Web\Trabalhos\Vitrine Calçados\Projetos\ProjetoWeb\ProjetoWeb1\bin\ProjetoWeb1.pdb
+D:\GUSTAVO\Documentos\Arquivos\ETE\ETE LIMOEIRO\III Módulo\Desenvolvimento de Aplicação Web\Trabalhos\Vitrine Calçados\Projetos\ProjetoWeb\ProjetoWeb1\obj\Debug\ProjetoWeb1.pdb
+D:\GUSTAVO\Documentos\Arquivos\ETE\ETE LIMOEIRO\III Módulo\Desenvolvimento de Aplicação Web\Trabalhos\Vitrine Calçados\Projetos\ProjetoWeb1\ProjetoWeb1\bin\ProjetoWeb1.dll
+D:\GUSTAVO\Documentos\Arquivos\ETE\ETE LIMOEIRO\III Módulo\Desenvolvimento de Aplicação Web\Trabalhos\Vitrine Calçados\Projetos\ProjetoWeb1\ProjetoWeb1\bin\ProjetoWeb1.pdb
+D:\GUSTAVO\Documentos\Arquivos\ETE\ETE LIMOEIRO\III Módulo\Desenvolvimento de Aplicação Web\Trabalhos\Vitrine Calçados\Projetos\ProjetoWeb1\ProjetoWeb1\obj\Debug\ResolveAssemblyReference.cache
+D:\GUSTAVO\Documentos\Arquivos\ETE\ETE LIMOEIRO\III Módulo\Desenvolvimento de Aplicação Web\Trabalhos\Vitrine Calçados\Projetos\ProjetoWeb1\ProjetoWeb1\obj\Debug\ProjetoWeb1.dll
+D:\GUSTAVO\Documentos\Arquivos\ETE\ETE LIMOEIRO\III Módulo\Desenvolvimento de Aplicação Web\Trabalhos\Vitrine Calçados\Projetos\ProjetoWeb1\ProjetoWeb1\obj\Debug\ProjetoWeb1.pdb
+D:\GUSTAVO\Documentos\Arquivos\ETE\ETE LIMOEIRO\III Módulo\Desenvolvimento de Aplicação Web\Trabalhos\Vitrine Calçados\Projetos\ProjetoWeb1 - Banco\ProjetoWeb1\bin\ProjetoWeb1.dll
+D:\GUSTAVO\Documentos\Arquivos\ETE\ETE LIMOEIRO\III Módulo\Desenvolvimento de Aplicação Web\Trabalhos\Vitrine Calçados\Projetos\ProjetoWeb1 - Banco\ProjetoWeb1\bin\ProjetoWeb1.pdb
+D:\GUSTAVO\Documentos\Arquivos\ETE\ETE LIMOEIRO\III Módulo\Desenvolvimento de Aplicação Web\Trabalhos\Vitrine Calçados\Projetos\ProjetoWeb1 - Banco\ProjetoWeb1\obj\Debug\ResolveAssemblyReference.cache
+D:\GUSTAVO\Documentos\Arquivos\ETE\ETE LIMOEIRO\III Módulo\Desenvolvimento de Aplicação Web\Trabalhos\Vitrine Calçados\Projetos\ProjetoWeb1 - Banco\ProjetoWeb1\obj\Debug\ProjetoWeb1.dll
+D:\GUSTAVO\Documentos\Arquivos\ETE\ETE LIMOEIRO\III Módulo\Desenvolvimento de Aplicação Web\Trabalhos\Vitrine Calçados\Projetos\ProjetoWeb1 - Banco\ProjetoWeb1\obj\Debug\ProjetoWeb1.pdb
+D:\GUSTAVO\Documentos\Arquivos\ETE\ETE LIMOEIRO\III Módulo\Desenvolvimento de Aplicação Web\Trabalhos\Vitrine Calçados\Projetos\ProjetoWeb\ProjetoWeb1 - Banco\ProjetoWeb1\bin\ProjetoWeb1.dll
+D:\GUSTAVO\Documentos\Arquivos\ETE\ETE LIMOEIRO\III Módulo\Desenvolvimento de Aplicação Web\Trabalhos\Vitrine Calçados\Projetos\ProjetoWeb\ProjetoWeb1 - Banco\ProjetoWeb1\bin\ProjetoWeb1.pdb
+D:\GUSTAVO\Documentos\Arquivos\ETE\ETE LIMOEIRO\III Módulo\Desenvolvimento de Aplicação Web\Trabalhos\Vitrine Calçados\Projetos\ProjetoWeb\ProjetoWeb1 - Banco\ProjetoWeb1\obj\Debug\ResolveAssemblyReference.cache
+D:\GUSTAVO\Documentos\Arquivos\ETE\ETE LIMOEIRO\III Módulo\Desenvolvimento de Aplicação Web\Trabalhos\Vitrine Calçados\Projetos\ProjetoWeb\ProjetoWeb1 - Banco\ProjetoWeb1\obj\Debug\ProjetoWeb1.dll
+D:\GUSTAVO\Documentos\Arquivos\ETE\ETE LIMOEIRO\III Módulo\Desenvolvimento de Aplicação Web\Trabalhos\Vitrine Calçados\Projetos\ProjetoWeb\ProjetoWeb1 - Banco\ProjetoWeb1\obj\Debug\ProjetoWeb1.pdb
+D:\GUSTAVO\Documentos\Arquivos\ETE\ETE LIMOEIRO\III Módulo\Projeto Integrador\ProjetoWeb - DAW\ProjetoWeb1\ProjetoWeb1\bin\ProjetoWeb1.dll
+D:\GUSTAVO\Documentos\Arquivos\ETE\ETE LIMOEIRO\III Módulo\Projeto Integrador\ProjetoWeb - DAW\ProjetoWeb1\ProjetoWeb1\bin\ProjetoWeb1.pdb
+D:\GUSTAVO\Documentos\Arquivos\ETE\ETE LIMOEIRO\III Módulo\Projeto Integrador\ProjetoWeb - DAW\ProjetoWeb1\ProjetoWeb1\obj\Debug\ResolveAssemblyReference.cache
+D:\GUSTAVO\Documentos\Arquivos\ETE\ETE LIMOEIRO\III Módulo\Projeto Integrador\ProjetoWeb - DAW\ProjetoWeb1\ProjetoWeb1\obj\Debug\ProjetoWeb1.dll
+D:\GUSTAVO\Documentos\Arquivos\ETE\ETE LIMOEIRO\III Módulo\Projeto Integrador\ProjetoWeb - DAW\ProjetoWeb1\ProjetoWeb1\obj\Debug\ProjetoWeb1.pdb
+D:\GUSTAVO\Documentos\Arquivos\Estudo Acadêmico\ETE\ETE LIMOEIRO\III Módulo\Projeto Integrador\ProjetoWeb - DAW\ProjetoWeb1\ProjetoWeb1\obj\Debug\ResolveAssemblyReference.cache
+D:\GUSTAVO\Documentos\Arquivos\Estudo Acadêmico\ETE\ETE LIMOEIRO\III Módulo\Projeto Integrador\ProjetoWeb - DAW\ProjetoWeb1\ProjetoWeb1\obj\Debug\ProjetoWeb1.dll
+D:\GUSTAVO\Documentos\Arquivos\Estudo Acadêmico\ETE\ETE LIMOEIRO\III Módulo\Projeto Integrador\ProjetoWeb - DAW\ProjetoWeb1\ProjetoWeb1\obj\Debug\ProjetoWeb1.pdb

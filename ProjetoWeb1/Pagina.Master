@@ -1,0 +1,70 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Pagina.master.cs" Inherits="ProjetoWeb1.Pagina" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body background="img/background.png">
+    <form id="form1" runat="server">
+    <div align="center" >
+        <asp:Panel ID="Panel1" runat="server" Width="900px">
+            <asp:Panel ID="Panel2" runat="server" BackColor="White" BackImageUrl="~/img/topo.png"
+                Height="169px" Width="900px">
+            </asp:Panel>
+            <asp:Panel ID="loginPanel" runat="server" BackColor="#F1F2F3" Height="30px" 
+                HorizontalAlign="Right">
+                <asp:Label ID="loginLabel" runat="server" Text="Login:"></asp:Label>
+                <asp:TextBox ID="loginTextBox" runat="server" 
+                    ontextchanged="emailTextBox_TextChanged"></asp:TextBox>
+                <asp:Label ID="senhaLabel" runat="server" Text="Senha:"></asp:Label>
+                <asp:TextBox ID="senhaTextBox" runat="server" TextMode="Password"></asp:TextBox>
+                <asp:Button ID="entrarButton" runat="server" OnClick="entrarButton_Click" Text="Entrar" />
+            </asp:Panel>
+            <asp:Panel ID="menuPanel" runat="server" BackColor="#F1F2F3" Height="50px" 
+                HorizontalAlign="Center">
+                <asp:ImageButton ID="homeImageButton" runat="server" Height="50px" 
+                    ImageUrl="~/img/botao_home.png" Width="175px" 
+                    PostBackUrl="~/FrmIndex.aspx" />
+                &nbsp;<asp:ImageButton ID="produtosImageButton" runat="server" Height="50px" 
+                    ImageUrl="~/img/botao_produtos.png" 
+                    Width="175px" PostBackUrl="~/ListProdutos.aspx" />
+                &nbsp;<asp:ImageButton ID="cadastrarImageButton" runat="server" Height="50px" 
+                    ImageUrl="~/img/botao_cadastrar.png" onclick="cadastrarImageButton_Click" />
+                &nbsp;<asp:ImageButton ID="ImageButton1" runat="server" Height="50px" 
+                    ImageUrl="~/img/botao_pedido.png" 
+                    Width="175px" PostBackUrl="~/ModuloVenda.aspx" />
+            </asp:Panel>
+            <asp:Panel ID="submenuPanel" runat="server" BackColor="#F1F2F3" Height="50px" 
+                Visible="False">
+                <asp:ImageButton ID="clientesImageButton" runat="server" Height="50px" 
+                    ImageUrl="~/img/botao_clientes.png" PostBackUrl="~/FrmCliente.aspx" 
+                    Width="175px" />
+                &nbsp;
+                <asp:ImageButton ID="ImageButton3" runat="server" Height="50px" 
+                    ImageUrl="~/img/botao_usuarios.png" PostBackUrl="~/FrmUsuario.aspx" 
+                    Width="175px" />
+                &nbsp;
+                <asp:ImageButton ID="ImageButton4" runat="server" Height="50px" 
+                    ImageUrl="~/img/botao_produtos.png" PostBackUrl="~/FrmProduto.aspx" 
+                    Width="175px" />
+            </asp:Panel>
+            <asp:Panel ID="usuarioPanel" runat="server" BackColor="#F1F2F3" Height="25px" 
+                HorizontalAlign="Right">
+                <asp:Label ID="olaLabel" runat="server" Text="Olá:  "></asp:Label>
+                <asp:Label ID="usuarioLabel" runat="server" Text="usuario          "></asp:Label>
+                <asp:LinkButton ID="sairLinkButton" runat="server" OnClick="sairLinkButton_Click">sair</asp:LinkButton>
+            </asp:Panel>
+        </asp:Panel>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+        <asp:Panel ID="rodapePanel" runat="server" BackColor="#333333" Height="33px" 
+            HorizontalAlign="Right" Width="900px">
+            <asp:Image ID="Image1" runat="server" ImageUrl="~/img/rodape.png" />
+            </asp:Panel>
+    </div>
+    </form>
+</body>
+</html>

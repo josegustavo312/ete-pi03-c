@@ -1,0 +1,5 @@
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2010\Projects\CredBancoTeste\CredBancoTeste\bin\CredBancoTeste.dll
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2010\Projects\CredBancoTeste\CredBancoTeste\bin\CredBancoTeste.pdb
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2010\Projects\CredBancoTeste\CredBancoTeste\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2010\Projects\CredBancoTeste\CredBancoTeste\obj\Debug\CredBancoTeste.dll
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2010\Projects\CredBancoTeste\CredBancoTeste\obj\Debug\CredBancoTeste.pdb
